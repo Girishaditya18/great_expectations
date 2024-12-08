@@ -13,6 +13,6 @@
     "algoliasearch": "^4.12.1",
     "dotenv": "^16.0.2",
     "node-fetch": "^2.6.7",
-    "remove-markdown": "^0.5.0"
+    "remove-markdown": "^0.5.5"
   }
 }

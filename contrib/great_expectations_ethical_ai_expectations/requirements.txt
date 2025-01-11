@@ -3,3 +3,4 @@ great_expectations
 pandas
 scikit_learn
 setuptools
+numpy>=1.22.2 # not directly required, pinned by Snyk to avoid a vulnerability

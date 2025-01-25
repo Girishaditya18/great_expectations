@@ -46,3 +46,4 @@ user_agents
 uszipcode
 yahoo_fin
 zipcodes
+restrictedpython>=8.0 # not directly required, pinned by Snyk to avoid a vulnerability

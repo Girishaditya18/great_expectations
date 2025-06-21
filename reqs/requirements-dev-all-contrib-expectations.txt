@@ -46,3 +46,6 @@ user_agents
 uszipcode
 yahoo_fin
 zipcodes
+protobuf>=4.25.8 # not directly required, pinned by Snyk to avoid a vulnerability
+pycares>=4.9.0 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability

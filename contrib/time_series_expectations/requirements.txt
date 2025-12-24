@@ -1,1 +1,2 @@
 great_expectations
+marshmallow>=3.26.2 # not directly required, pinned by Snyk to avoid a vulnerability
